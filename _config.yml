@@ -7,6 +7,7 @@ relative_links:
   collections: false
   exclude: 
     - README.md
-
+exclude: 
+  - README.md
 title: My Personal CISSP Preperation Notes
 description: My personal notes used to prepare for the CISSP.
