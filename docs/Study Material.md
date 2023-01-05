@@ -17,7 +17,7 @@
 [CISSP All-in-One Exam Guide, Ninth Edition](https://www.amazon.com/CISSP-All-One-Guide-Ninth-dp-1260467376/dp/1260467376/ref=dp_ob_title_bk)
 
 ## Blogs
-*Provide guidance on how to study and approach the exam.*
+*Provide guidance on how to study and approach the exam.*  
 [Ammar Hasayen](https://blog.ahasayen.com/cissp-exam-study-plan/)
 [Jeremiah Walker](https://www.linkedin.com/pulse/cissp-easy-way-30-day-plan-jeremiah-walker)
 
