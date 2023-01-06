@@ -2,7 +2,7 @@
 
 ## Videos
 
-[CISSP Exam Cram Full Course (All 8 Domains) UPDATED - 2022 EDITION!](https://www.youtube.com/watch?v=_nyZhYnCNLA&t=4271s)
+[CISSP Exam Cram Full Course (All 8 Domains) UPDATED - 2022 EDITION!](https://www.youtube.com/watch?v=_nyZhYnCNLA&t=4271s)  
 [How to "Thnink like a Manager" for the CISSP](https://www.youtube.com/watch?v=vfC9OLsCqgk)
 
 ## Books
