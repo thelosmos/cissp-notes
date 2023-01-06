@@ -3,7 +3,7 @@
 ## Videos
 
 [CISSP Exam Cram Full Course (All 8 Domains) UPDATED - 2022 EDITION!](https://www.youtube.com/watch?v=_nyZhYnCNLA&t=4271s)
-
+[How to "Thnink like a Manager" for the CISSP](https://www.youtube.com/watch?v=vfC9OLsCqgk)
 
 ## Books
 [(ISC)2 CISSP Certified Information Systems Security Professional Official Study Guide & Practice Tests Bundle ](https://www.amazon.com/dp/1119790026/?coliid=INBBVDCHNP1LG&colid=3Q6VXU33L8ATE&psc=1&ref_=lv_ov_lig_dp_it)
