@@ -32,8 +32,8 @@ Thinking like a manager is about **knowing priorities**.
 | Operational - short term| IT Engineer | Implement and operate |
 
 **Don't Touch, Advise** - During the exam, think like an outside consultant advising on strategy, priorities, and sfety, not doing.
-![](../Pasted%20image%2020230108175338.png)
 
+![](../resources/Pasted%20image%2020230108175338.png)
 
 
 
