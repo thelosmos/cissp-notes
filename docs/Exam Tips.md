@@ -33,7 +33,7 @@ Thinking like a manager is about **knowing priorities**.
 
 **Don't Touch, Advise** - During the exam, think like an outside consultant advising on strategy, priorities, and sfety, not doing.
 
-![](../resources/Pasted%20image%2020230108175338.png)
+![Spaced Repetition](../resources/Pasted%20image%2020230108175338.png)
 
 
 
