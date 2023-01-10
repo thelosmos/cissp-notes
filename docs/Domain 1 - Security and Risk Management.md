@@ -15,7 +15,7 @@
 ##### Acceptable Use Policy
 *Assign roles and responsiblities*
 ##### Security Baselines
-*Define "minimum levels*
+*Define "minimum levels"*
 - Developing new safeguards equals establishing a **new baseline**. Current compliance with existing baselines is not a valid consideration point.
 ##### Security Guidelines
 *Offer Recommendations*
