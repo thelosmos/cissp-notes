@@ -5,15 +5,43 @@
 - Professional ethics - ISC<sup>2</sup> code
 - Security governance principles (ITIL, oversight)
 - Security policies, standards, procedures and guidelines (know "suggested vs. "mandatory")  
+## Intro
+Security professionals evaluate risks against our critical assets and deploy safeguards to mitigate those risks. The Security and Risk Management domain focuses on risk analysis and mitigation. It details security governance, or the organizational structure required for a successful information security program. Success is usually tied to the right people in the right roles. Not typically budget or staff size.
+
 ## 1.1 Understand, adhere to, and promote professional ethics
 ### 1.1.1 ISC<sup>2</sup> Code of Ethics
 ### 1.1.2 Organizational code of ethics
 
 
 ## 1.2 Understand and apply security concepts
-### 1.2.1 Confidentiality, integrity, and availability, authenticity and nonrepudiation
+### 1.2.1 Confidentiality, integrity, and availability, authenticity and non-repudiation
 #### CIA Triad
 ![](../resources/Pasted%20image%2020230108185812.png)
+Confidentiality, integrity, and availability are referred to as the CIA triad, which is the cornerstone concept of information security. It is sometimes also described by its opposite: disclosure (Confidentiality), alteration (Integrity), and destruction (Availability) (DAD).
+##### Confidentiality
+- Seeks to prevent the unauthorized disclosure of information; it keeps data a secret.
+###### Example Attack
+Theft of personally identifiable information (PII), such as credit card information.  
+##### Integrity
+- Prevents unauthorized modification of information; unauthorized write access to data.
+- There are two types of integrity.  
+	- Data Integrity - protect information from unauthorized modification
+	- System Integrity - protect a system (such as a server), from unauthorized modification.  
+##### Availability
+- Ensures that information is available when needed.
+###### Example Attack
+- Denial of Service (DoS) attack
+#### Accountability
+- Holds users accountable for their action.
+- Typically done by logging and analyzing audit data.
+- Keeps honest people honest. For some users, knowing that data is logged is not enough to provide accountability; they must know the data is logged and audited.
+#### Non-repudiation
+- User cannot deny (repudiate) having performed a transaction.
+- Combines and relies on authentication and integrity
+- Authenticates the identity of a user who performs a transaction
+**Example:** Proving you signed a contract to buy a car (authenticating your identity as the purchaser) is not useful if the car dealer can change the price from $20k to $40k (violate the integrity of the contract).
+
+
 ## 1.3 Evaluate and apply security governance principles
 ### 1.3.1 Alignment of the security functions to business strategy, goals, mission, and objectives
 #### Security Planning
@@ -44,7 +72,7 @@
 ### 1.5.5. Privacy
 ## 1.6 Understand requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards)
 ## 1.7 Develop, document, and implement security policy, standards, procedures, and guidelines  
-## 1.8 Identify, analyze, and prioritize Business Continuity (BC) requirments  
+## 1.8 Identify, analyze, and prioritize Business Continuity (BC) requirements  
 ### 1.8.1 Business Impact Analysis (BIA)  
 ### 1.8.2 Develop and document the scope and the plan  
 
@@ -98,7 +126,7 @@
 ### 1.10.9 Continuous improvement (e.g., Risk maturity modeling)  
 ### 1.10.10 Risk frameworks  
 ## 1.11 Understand and apply threat modeling concepts and methodologies  
-## 1.12 APply Supply Chain Risk Management (SCRM) concepts  
+## 1.12 Apply Supply Chain Risk Management (SCRM) concepts  
 ### 1.12.1 Risks associated with hardware, software, and services  
 ### 1.12.2 Third-party assessment and monitoring  
 ### 1.12.3 Minimum security requirments  
