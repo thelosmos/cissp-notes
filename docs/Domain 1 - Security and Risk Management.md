@@ -16,7 +16,7 @@ Security professionals evaluate risks against our critical assets and deploy saf
 ## 1.2 Understand and apply security concepts
 ### 1.2.1 Confidentiality, integrity, and availability, authenticity and non-repudiation
 #### CIA Triad
-![](../resources/Pasted%20image%2020230108185812.png)
+![](../resources/Pasted%20image%2020230108185812.png)  
 Confidentiality, integrity, and availability are referred to as the CIA triad, which is the cornerstone concept of information security. It is sometimes also described by its opposite: disclosure (Confidentiality), alteration (Integrity), and destruction (Availability) (DAD).
 ##### Confidentiality
 - Seeks to prevent the unauthorized disclosure of information; it keeps data a secret.
