@@ -17,7 +17,8 @@ Security professionals evaluate risks against our critical assets and deploy saf
 ### 1.2.1 Confidentiality, integrity, and availability, authenticity and non-repudiation
 #### CIA Triad
 ![](../resources/Pasted%20image%2020230108185812.png)  
-Confidentiality, integrity, and availability are referred to as the CIA triad, which is the cornerstone concept of information security. It is sometimes also described by its opposite: disclosure (Confidentiality), alteration (Integrity), and destruction (Availability) (DAD).
+Confidentiality, integrity, and availability are referred to as the CIA triad, which is the cornerstone concept of information security. It is sometimes also described by its opposite: disclosure (Confidentiality), alteration (Integrity), and destruction (Availability) (DAD).  
+
 ##### Confidentiality
 - Seeks to prevent the unauthorized disclosure of information; it keeps data a secret.
 ###### Example Attack
@@ -39,7 +40,14 @@ Theft of personally identifiable information (PII), such as credit card informat
 - User cannot deny (repudiate) having performed a transaction.
 - Combines and relies on authentication and integrity
 - Authenticates the identity of a user who performs a transaction
-**Example:** Proving you signed a contract to buy a car (authenticating your identity as the purchaser) is not useful if the car dealer can change the price from $20k to $40k (violate the integrity of the contract).
+**Example:** Proving you signed a contract to buy a car (authenticating your identity as the purchaser) is not useful if the car dealer can change the price from $20k to $40k (violate the integrity of the contract).  
+#### Least Privilege and Need to Know
+Users should be granted the minimum amount of access (authorization) required for job duty. Need to know is **more** granular. The user <u>must</u> need to know that specific piece of information before accessing it.
+#### Subjects and Objects
+- **subject** - active entity on a data system. Most examples invole people accessing data files, but computer programs can be subjects as well. A dll or script that updates database files with new information is also a subject.
+- **object** - passive data within the system. Can range from documents on physical paper to database tables to text file. <u>They are passive and do not manipulate other objects.</U>
+#### Defense in Depth
+- Also called layered defense; applies multiple safeguards/controls to reduce risk and protect an asset. Any single control may fail, but by deploying multiple controls, you improve the confidentiality, integrity, and availability of your data.
 
 
 ## 1.3 Evaluate and apply security governance principles
