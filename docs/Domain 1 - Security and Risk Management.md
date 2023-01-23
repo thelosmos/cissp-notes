@@ -73,6 +73,24 @@ Users should be granted the minimum amount of access (authorization) required fo
 
 
 ## 1.5 Understand legal and regulatory issues that pertain to information security in a holistic context
+Complying with laws and regulations is a priority for top information security management. Ignorance is never a valid excuse for breaking the law.  
+#### Major Legal Systems
+The three major systems of law are civil, common, and religious law.
+#### Civil law (legal system)
+- The most common of the major legal systems and is employed by many countries.
+- Leverages codified laws or statutes to determine what is considered to be within the bounds of law.
+- Legislative branch typically wields the power to create laws, thee is still a judicial branch that is tasked with the interpretation of existing laws.
+- The most significant difference between civil and common law is that under civil law judicial precedents and particular case rulings do not carry the weight they would have under common law.
+#### Common law
+- Used in the United States, Canada, the UK, and most former British colonies, amongst others.
+- English influence has been the main indicator of common law being used.
+- Primary distinguishing feature is the significant emphasis on particular cases and judicial precedents as determinants of laws.
+- Though there is typically also a legislative body responsible for the creation of new statutes and laws, judicial rulings can sometimes supersede those laws.
+- Due to the emphasis on judges' interpretations, thee is significant possibility that as society changes, judicial interpretations may also change.
+#### Religious and customary law
+- Religious doctrine or interpretation serves as the primary source of legal understanding and statutes.
+- Wile Christianity, Judaism, and Hinduism have influenced national legal systems, **Islam** serves as the most common source.
+- **Customary** law refers to customs or practices that are so commonly accepted by a group that the custom is treated as a law. Can be later codified as laws, but the emphasis on the acceptance by a group is quite important.
 ### 1.5.1 Cybercrimes and data breaches  
 ### 1.5.2 Licensing and intellectual Property (IP) requirements  
 ### 1.5.3 Import/export controls  
